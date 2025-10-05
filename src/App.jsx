@@ -11,7 +11,7 @@ import Details from "./pages/details/Details";
 import Explore from "./pages/explore/Explore";
 import Home from "./pages/home/Home";
 import SearchResult from "./pages/searchResult/SearchResult";
-import PageNotFound from "./pages/404/PageNotFound";
+import PageNotFound from "./pages/404/pageNotFound";
 
 const App = () => {
   const dispatch = useDispatch();
