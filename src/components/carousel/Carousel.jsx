@@ -41,8 +41,8 @@ const Carousel = ({ data, loading, endpoint, title }) => {
           <div className="date skeleton"></div>
         </div>
       </div>
-    );  
-  };  
+    );
+  };
 
   return (
     <div className="carousel">
